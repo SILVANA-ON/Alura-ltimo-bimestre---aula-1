@@ -9,3 +9,6 @@
    background: var(--cor-de-fundo);
  }
  
+.cabeçalho {
+    background-color: var(--branco);
+}
