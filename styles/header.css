@@ -43,6 +43,6 @@ background-color:(--branco);
 color:var(--laranja);
 
 }
-.lista-menu__item{
+.lista-menu__link{
 color:var(--azul-degrade);
 }
