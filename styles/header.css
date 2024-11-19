@@ -43,3 +43,6 @@ background-color:(--branco);
 color:var(--laranja);
 
 }
+.lista-menu__item{
+color:var(--azul-degrade);
+}
